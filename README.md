@@ -6,15 +6,15 @@ anything
 
 <p><b>The Tool Installation Process Is Very Easy.. Just Open Your Termux & Type This Provided Commands!!</b></p>
 
-- $ `apt update && apt upgrade`
-- $ `pkg install python`
-- $ `pkg install git`
-- $ `git clone https://github.com/Mr-Krishna-90/Number-Info.git`
-- $ `cd Number-info`
-- $ `pip install requests`
-- $ `pip install bs4`
-- $ `pip install BeautifulSoup`
-- $ `pip install pyshorteners`
+apt update && apt upgrade`
+  pkg install python`
+pkg install git`
+git clone https://github.com/Mr-Krishna-90/Number-Info.git`
+cd Number-info`
+pip install requests`
+pip install bs4`
+pip install BeautifulSoup`
+pip install pyshorteners`
 
 <p><b>• Go Telegram And Search @number_imformation_bot Now Start Bot!!</b></p>
 <p><b>• And Return Search @UserX_RoBot Copy Your Chat Id!!</b></p>
